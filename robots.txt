@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xohgaxodez.npmalerts.com/sitemap.xml
